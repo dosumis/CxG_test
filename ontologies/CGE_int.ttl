@@ -1,0 +1,690 @@
+@prefix ns: <http://example.org/> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns:03fbff23-15f4-42fc-aa4c-96d22fa382b5 a obo:PCL_0010001 ;
+    rdfs:label "Sst_20" ;
+    ns:CrossArea_cluster "Sst_20" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:0688595f-2ca2-43ee-a28d-6b126c0c911d a obo:PCL_0010001 ;
+    rdfs:label "Sst_32" ;
+    ns:CrossArea_cluster "Sst_32" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:099b708a-0a5f-4216-bbe1-ed7243911452 a obo:PCL_0010001 ;
+    rdfs:label "Sst_18" ;
+    ns:CrossArea_cluster "Sst_18" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:09bd21bf-0914-41f6-aac3-b06bf72fab19 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_21" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:0ab8d003-bb39-4c14-91ca-cbb836ea859b a obo:PCL_0010001 ;
+    rdfs:label "Sst_14" ;
+    ns:CrossArea_cluster "Sst_14" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:0b3c6dd3-9aa4-4eff-a362-c23fa2a930d0 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_38" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:1285d693-4db4-4871-88ca-9eeb185ef555 a obo:PCL_0010001 ;
+    rdfs:label "Sst_34" ;
+    ns:CrossArea_cluster "Sst_34" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:15910e9f-3d4c-45e5-8224-e728d65e7a79 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_35" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:17f23ea1-6c42-4b3f-ab79-cac225617115 a obo:PCL_0010001 ;
+    rdfs:label "Sst_5" ;
+    ns:CrossArea_cluster "Sst_5" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:188c70d4-118a-4b56-b599-c5454f558406 a obo:PCL_0010001 ;
+    rdfs:label "Sst_35" ;
+    ns:CrossArea_cluster "Sst_35" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:19c29844-acd1-480e-b4f6-447edc205650 a obo:PCL_0010001 ;
+    rdfs:label "Sst Chodl" ;
+    ns:CrossArea_cluster "Sst Chodl_1" ;
+    ns:CrossArea_subclass "Sst Chodl" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed .
+
+ns:1ddd0a35-4b05-43b0-83b3-30fe93e759b0 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_34" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:1fc47fe4-6feb-4a4f-80fb-ed6f886b2aaf a obo:PCL_0010001 ;
+    rdfs:label "Sst_1" ;
+    ns:CrossArea_cluster "Sst_1" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:21725460-ff07-429a-ae53-5265c9fbb00e a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_6" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:22623eba-e0c1-46d4-8a0a-9c1503efca31 a obo:PCL_0010001 ;
+    rdfs:label "Pvalb_6" ;
+    ns:CrossArea_cluster "Pvalb_6" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97,
+        ns:9a199ab5-e51b-4806-ab61-e6748986e947 .
+
+ns:235d3f42-0abc-4d51-82d4-40652cc3059a a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_3" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:23f3a360-3902-4bc4-aaf1-c23156ee1388 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_5" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:2559933f-4f86-45b1-9348-e69f2034e35d a obo:PCL_0010001 ;
+    rdfs:label "Pvalb_7" ;
+    ns:CrossArea_cluster "Pvalb_7" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97,
+        ns:9a199ab5-e51b-4806-ab61-e6748986e947 .
+
+ns:256a70ab-fa72-4b23-9b83-b640b175bc6e a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_37" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:2cb82ad1-c53d-477f-ad76-7deee8854463 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_13" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:2e2f9f05-4992-44c7-8dd9-bd8b7ff1198b a obo:PCL_0010001 ;
+    rdfs:label "Sst_36" ;
+    ns:CrossArea_cluster "Sst_36" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:2fb598ce-ac10-4b00-93e8-59fb2d511508 a obo:PCL_0010001 ;
+    rdfs:label "Sst_29" ;
+    ns:CrossArea_cluster "Sst_29" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:3048ab57-3258-426e-b4f4-56479009f52d a obo:PCL_0010001 ;
+    rdfs:label "Pvalb_1" ;
+    ns:CrossArea_cluster "Pvalb_1" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97,
+        ns:9a199ab5-e51b-4806-ab61-e6748986e947 .
+
+ns:3402c1c2-a118-4d16-bc96-da7a668badf7 a [ a owl:Restriction ;
+            owl:onProperty obo:RO_0002473 ;
+            owl:someValuesFrom obo:CL_4023036 ],
+        obo:PCL_0010001 ;
+    rdfs:label "chandelier pvalb GABAergic cortical interneuron" ;
+    ns:cell_type "chandelier pvalb GABAergic cortical interneuron" .
+
+ns:365d21df-569d-4cd5-9c4d-82a2ef33cc60 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_10" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:3a194e43-e018-4a23-b7a2-a7487be9d389 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_15" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97,
+        ns:9a199ab5-e51b-4806-ab61-e6748986e947,
+        ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:3b449179-25fb-49bf-8cb5-2f4f0a9699c8 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_25" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:3b52f695-697e-49f7-92fb-562808c37ff9 a obo:PCL_0010001 ;
+    rdfs:label "Sst_6" ;
+    ns:CrossArea_cluster "Sst_6" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:3d7bd81b-85d1-4bd4-9ace-24b42826dde7 a obo:PCL_0010001 ;
+    rdfs:label "Sst_16" ;
+    ns:CrossArea_cluster "Sst_16" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:40613a88-6653-42bf-9405-987e62a31d69 a obo:PCL_0010001 ;
+    rdfs:label "Sst_21" ;
+    ns:CrossArea_cluster "Sst_21" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:40ae2f2c-9013-48a5-ac52-bd014744b827 a obo:PCL_0010001 ;
+    rdfs:label "Sst_4" ;
+    ns:CrossArea_cluster "Sst_4" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:4219327a-c75e-42af-898f-bf1e8d52e10c a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_5" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:42226c94-03fd-4eff-9320-de0bf410e280 a obo:PCL_0010001 ;
+    rdfs:label "Pvalb_8" ;
+    ns:CrossArea_cluster "Pvalb_8" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97,
+        ns:9a199ab5-e51b-4806-ab61-e6748986e947,
+        ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:43e354f8-5290-4e72-9a86-2c0f10b6a570 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_1" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:44a8179a-9569-4c5f-96dd-62b2ce1d35f2 a obo:PCL_0010001 ;
+    rdfs:label "Sst_37" ;
+    ns:CrossArea_cluster "Sst_37" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:4913d7f0-0e4a-4617-b587-1552906646bc a obo:PCL_0010001 ;
+    rdfs:label "Sst_2" ;
+    ns:CrossArea_cluster "Sst_2" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:4a406d81-17eb-43c5-a482-77141dd70391 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_14" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:4efe71c3-2a71-49a0-99fb-1f0fc76a3734 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_36" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:541aacd6-9f77-4a02-8471-f469dea2de70 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_8" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:54b6de1f-6afa-43d1-9ec8-a11f5f801ae7 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_10" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:54e1bea4-d608-4293-bfc5-f26e9708cf09 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_33" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:58b4ae63-f550-44fa-a4d0-cbcb0efeff13 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_15" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:5a648b98-39d2-416b-9c6f-658fbdb7d64b a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_17" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:5a7ae858-63d0-421b-8f34-fbe9124560ad a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_32" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:5b188481-f8dc-4c09-9b18-6ae95d1387fb a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_29" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:5b928420-5a03-4e41-b573-f380fcb082d3 a obo:PCL_0010001 ;
+    rdfs:label "Sst_28" ;
+    ns:CrossArea_cluster "Sst_28" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:5dc7ff46-c735-414d-bd9b-37f80e2ebdb1 a obo:PCL_0010001 ;
+    rdfs:label "pvalb GABAergic cortical interneuron" ;
+    ns:CrossArea_cluster "chandelier pvalb GABAergic cortical interneuron" ;
+    ns:CrossArea_subclass "pvalb GABAergic cortical interneuron" ;
+    ns:WithinArea_cluster "pvalb GABAergic cortical interneuron" ;
+    ns:WithinArea_subclass "pvalb GABAergic cortical interneuron" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97 .
+
+ns:5e8daaaa-a342-457d-b026-51851471571e a obo:PCL_0010001 ;
+    rdfs:label "Pvalb_5" ;
+    ns:CrossArea_cluster "Pvalb_5" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97,
+        ns:9a199ab5-e51b-4806-ab61-e6748986e947 .
+
+ns:68bb010b-21d6-46c4-a616-96bb5d80531e a obo:PCL_0010001 ;
+    rdfs:label "chandelier pvalb GABAergic cortical interneuron" ;
+    ns:CrossArea_cluster "pvalb GABAergic cortical interneuron" ;
+    ns:CrossArea_subclass "chandelier pvalb GABAergic cortical interneuron" ;
+    ns:WithinArea_cluster "pvalb GABAergic cortical interneuron" ;
+    ns:WithinArea_subclass "pvalb GABAergic cortical interneuron" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97 .
+
+ns:6aae9291-e462-42dc-8868-51dba6cccafe a obo:PCL_0010001 ;
+    rdfs:label "Sst_22" ;
+    ns:CrossArea_cluster "Sst_22" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:6f4019ac-b757-4c72-8fc7-f49732bfa36a a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_30" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:70e2a30c-92a1-43b3-8171-3173d70af08e a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_7" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:72c07298-6ba9-48ae-8edd-5daf72012fe6 a obo:PCL_0010001 ;
+    rdfs:label "Pvalb_3" ;
+    ns:CrossArea_cluster "Pvalb_3" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97,
+        ns:9a199ab5-e51b-4806-ab61-e6748986e947 .
+
+ns:7606add1-2819-4a50-9217-c9da524ca16c a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_16" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:76801b43-3a3e-4476-8f5c-b7b94be61516 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_6" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:779d87ca-3dcf-4635-80a1-ba53e83fc65e a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_9" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:7931361c-4b4c-4bf5-935b-9d44e90aa4b5 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Chandelier_2" ;
+    obo:RO_0015003 ns:60e52557-f1cf-4b1f-a45b-4dd9b1306b4a .
+
+ns:7c67d316-f9f8-4be8-bed4-fd464c88aeec a obo:PCL_0010001 ;
+    rdfs:label "Sst_30" ;
+    ns:CrossArea_cluster "Sst_30" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:7fb82267-a65a-4128-aa37-7b77ae43f972 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_2" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:830c647f-718d-4383-968c-bc07b973e37b a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_12" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:85908b72-165b-453c-a367-d1561569bad6 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_16" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:8b22eaa5-02b0-4e9d-ace0-7a6ac5d48941 a obo:PCL_0010001 ;
+    rdfs:label "Sst_25" ;
+    ns:CrossArea_cluster "Sst_25" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:8d6329ee-d82a-40bf-a5be-308f5541c8f9 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_26" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:908e8be7-8504-4827-bad4-181d92b18f8b a obo:PCL_0010001 ;
+    rdfs:label "Sst_33" ;
+    ns:CrossArea_cluster "Sst_33" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:925822fe-66d2-4624-bacd-f73ddb835816 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_12" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:940ddd00-7898-4f50-beaa-846c6a008b7a a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_28" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:9703e07d-9718-46f9-86e5-58af714edc29 a obo:PCL_0010001 ;
+    rdfs:label "Sst_24" ;
+    ns:CrossArea_cluster "Sst_24" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:974b2ed2-eef1-48b2-8544-f3dff58a066f a obo:PCL_0010001 ;
+    rdfs:label "Sst_27" ;
+    ns:CrossArea_cluster "Sst_27" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:9895f167-b50e-4570-9f73-16b8ab8297c5 a obo:PCL_0010001 ;
+    rdfs:label "pvalb GABAergic cortical interneuron" ;
+    ns:CrossArea_cluster "pvalb GABAergic cortical interneuron" ;
+    ns:CrossArea_subclass "pvalb GABAergic cortical interneuron" ;
+    ns:WithinArea_cluster "chandelier pvalb GABAergic cortical interneuron" ;
+    ns:WithinArea_subclass "pvalb GABAergic cortical interneuron" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97 .
+
+ns:9948adfd-f68e-46e4-9936-84f432bd70b5 a obo:PCL_0010001 ;
+    rdfs:label "Sst_26" ;
+    ns:CrossArea_cluster "Sst_26" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:99aa3660-33a2-48a2-bc4e-abee23b95f36 a obo:PCL_0010001 ;
+    rdfs:label "Sst_31" ;
+    ns:CrossArea_cluster "Sst_31" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:9b1db72c-f2af-4f89-98d7-b23aa3559b2c a obo:PCL_0010001 ;
+    rdfs:label "Sst_15" ;
+    ns:CrossArea_cluster "Sst_15" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:a0a59bc4-7321-447f-a897-dabb5ef6ba13 a obo:PCL_0010001 ;
+    rdfs:label "Sst_11" ;
+    ns:CrossArea_cluster "Sst_11" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:acbde257-a8a7-47c1-aed0-875a3d21a0a9 a obo:PCL_0010001 ;
+    rdfs:label "Sst_3" ;
+    ns:CrossArea_cluster "Sst_3" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:addb0b94-180e-4884-a1d1-d754936260db a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_11" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:ae950f34-2456-4afe-a31f-cb2ac0464ea6 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_3" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:b20aaf34-a7e2-48b5-83a7-ae5ea0df9dd3 a obo:PCL_0010001 ;
+    rdfs:label "Sst_10" ;
+    ns:CrossArea_cluster "Sst_10" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:b2f3459f-d4d9-403e-a82f-1351c39b7777 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_23" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:b44ba822-0af6-4045-8d93-5e5cac7b639f a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_9" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:b7a779c3-b5de-4f4b-9bb9-8404f29e4c79 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst Chodl_2" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:99dc48e6-1d5d-4cc0-90fe-c547138d40cd .
+
+ns:bd99cfb0-b97a-4e70-bbe5-ba5e9a05d907 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_31" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:bf4285dd-1542-421a-8e5d-c10ecc7754f4 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_22" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:bf89a7d0-d0ce-4177-b0fc-c4c40ffd90aa a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_4" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:c19c1624-a7c0-4cb1-86ef-f2c795e17972 a obo:PCL_0010001 ;
+    rdfs:label "Pvalb_4" ;
+    ns:CrossArea_cluster "Pvalb_4" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97,
+        ns:9a199ab5-e51b-4806-ab61-e6748986e947 .
+
+ns:c330c14f-1ef4-4cd8-9970-d9391beb15a2 a [ a owl:Restriction ;
+            owl:onProperty obo:RO_0002473 ;
+            owl:someValuesFrom obo:CL_4023036 ],
+        obo:PCL_0010001 ;
+    rdfs:label "Chandelier" ;
+    ns:CrossArea_cluster "Chandelier_1" ;
+    ns:CrossArea_subclass "Chandelier" ;
+    ns:cell_type "chandelier pvalb GABAergic cortical interneuron" .
+
+ns:c670dd7f-e4fa-4e3f-9b9b-c46d27492a46 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_4" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:cada5da6-3eeb-4c55-b9b6-809cf3c6b5fe a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_24" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:cb21a878-d275-4b11-9086-428057dfbac1 a obo:PCL_0010001 ;
+    rdfs:label "Sst_23" ;
+    ns:CrossArea_cluster "Sst_23" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:cdad7942-857a-41be-8ac7-ecc633209f98 a obo:PCL_0010001 ;
+    rdfs:label "Sst_9" ;
+    ns:CrossArea_cluster "Sst_9" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:ce9f87e3-aac2-40d9-a383-846f27cc33a8 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_2" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:cf83e1df-d454-460b-9359-ee47e0a81744 a obo:PCL_0010001 ;
+    rdfs:label "Sst_17" ;
+    ns:CrossArea_cluster "Sst_17" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:d9a64bc2-7a93-463b-9c35-b1c4dd62e7a4 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_1" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:d9e1f82c-3fe6-48b6-a8ca-6905bc5b3847 a obo:PCL_0010001 ;
+    rdfs:label "Pvalb_9" ;
+    ns:CrossArea_cluster "Pvalb_9" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97,
+        ns:9a199ab5-e51b-4806-ab61-e6748986e947,
+        ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:da695fb2-6297-4474-aa2e-af086655fadc a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_11" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:dc86ebe2-fc76-41d1-94d4-38c8cab4ed67 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_19" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:de253419-c07b-4b39-ba0c-0054a96c22ae a obo:PCL_0010001 ;
+    rdfs:label "Sst_8" ;
+    ns:CrossArea_cluster "Sst_8" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:e0436258-8649-45d9-8da3-4ba55b19e342 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Chandelier_1" ;
+    obo:RO_0015003 ns:60e52557-f1cf-4b1f-a45b-4dd9b1306b4a .
+
+ns:e410f158-b9fb-413d-9cc1-8fbd19260dd8 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_27" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:e753330a-f88c-46da-8de2-1e57454ae92f a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_8" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:e8ef4bfd-ebca-412a-8ea5-772361687345 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_17" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97,
+        ns:9a199ab5-e51b-4806-ab61-e6748986e947,
+        ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:e97938e0-d2ce-419b-b447-ccab40ead294 a obo:PCL_0010001 ;
+    rdfs:label "pvalb GABAergic cortical interneuron" ;
+    ns:CrossArea_cluster "pvalb GABAergic cortical interneuron" ;
+    ns:CrossArea_subclass "pvalb GABAergic cortical interneuron" ;
+    ns:WithinArea_cluster "pvalb GABAergic cortical interneuron" ;
+    ns:WithinArea_subclass "chandelier pvalb GABAergic cortical interneuron" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97 .
+
+ns:e9be6d11-9af4-477f-9ea6-14d6109c77ff a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst Chodl_1" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:99dc48e6-1d5d-4cc0-90fe-c547138d40cd .
+
+ns:ed2e4f23-951e-4e7f-9f9c-e05d1fbca98c a obo:PCL_0010001 ;
+    rdfs:label "Sst_13" ;
+    ns:CrossArea_cluster "Sst_13" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:ed721b70-0e96-470a-8d3f-6c950310fad6 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_13" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:eed124ea-b917-4e6f-b988-05cd4258ded9 a obo:PCL_0010001 ;
+    rdfs:label "Sst_19" ;
+    ns:CrossArea_cluster "Sst_19" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:eff41b46-4ab9-4a8c-8219-4c9b1845bdd5 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_20" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:f3d973de-f224-40f0-9ee1-459f3d56097d a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_14" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:f6e2fa62-2b77-43a8-a78c-b1086833d50e a obo:PCL_0010001 ;
+    rdfs:label "Pvalb_2" ;
+    ns:CrossArea_cluster "Pvalb_2" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97,
+        ns:9a199ab5-e51b-4806-ab61-e6748986e947 .
+
+ns:f9b3c807-99a8-42f3-b405-6b8d074eb9c9 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Pvalb_7" ;
+    obo:RO_0015003 ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f .
+
+ns:fb7bb43b-1f4d-4ea2-852c-26fdb24ac235 a obo:PCL_0010001 ;
+    ns:WithinArea_cluster "Sst_18" ;
+    obo:RO_0015003 ns:af440545-30a2-4709-8f6c-7559777630f3 .
+
+ns:fc9157ca-0f8c-443a-8dc2-919937697bb3 a obo:PCL_0010001 ;
+    rdfs:label "Sst_12" ;
+    ns:CrossArea_cluster "Sst_12" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+ns:fef7aa34-9fed-4902-a40e-6111dcee68c3 a obo:PCL_0010001 ;
+    rdfs:label "Sst_7" ;
+    ns:CrossArea_cluster "Sst_7" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed,
+        ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 .
+
+obo:CL_0000099 a owl:Class ;
+    rdfs:label "interneuron" .
+
+obo:CL_0000402 a owl:Class ;
+    rdfs:label "CNS interneuron" .
+
+obo:CL_0000498 a owl:Class ;
+    rdfs:label "inhibitory interneuron" .
+
+obo:CL_0000617 a owl:Class ;
+    rdfs:label "GABAergic neuron" .
+
+obo:CL_0008031 a owl:Class ;
+    rdfs:label "cortical interneuron" .
+
+obo:CL_0010011 a owl:Class ;
+    rdfs:label "cerebral cortex GABAergic interneuron" .
+
+obo:CL_0010012 a owl:Class ;
+    rdfs:label "cerebral cortex neuron" .
+
+obo:CL_0011005 a owl:Class ;
+    rdfs:label "GABAergic interneuron" .
+
+obo:CL_2000029 a owl:Class ;
+    rdfs:label "central nervous system neuron" .
+
+obo:CL_4023083 a owl:Class ;
+    rdfs:label "chandelier cell" .
+
+obo:RO_0015003 a owl:ObjectProperty ;
+    rdfs:label "subcluster of" .
+
+obo:CL_4023017 a owl:Class ;
+    rdfs:label "sst GABAergic cortical interneuron" ;
+    rdfs:subClassOf obo:CL_0000540 .
+
+ns:60e52557-f1cf-4b1f-a45b-4dd9b1306b4a a obo:PCL_0010001 ;
+    ns:WithinArea_subclass "Chandelier" .
+
+ns:99dc48e6-1d5d-4cc0-90fe-c547138d40cd a obo:PCL_0010001 ;
+    ns:WithinArea_subclass "Sst Chodl" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed .
+
+obo:CL_0000540 a owl:Class ;
+    rdfs:label "neuron" .
+
+obo:CL_4023018 a owl:Class ;
+    rdfs:label "pvalb GABAergic cortical interneuron" ;
+    rdfs:subClassOf obo:CL_0000540 .
+
+obo:CL_4023036 a owl:Class ;
+    rdfs:label "chandelier pvalb GABAergic cortical interneuron" ;
+    rdfs:subClassOf obo:CL_4023018 .
+
+obo:RO_0002473 rdfs:label "composed primarily of" .
+
+ns:9a199ab5-e51b-4806-ab61-e6748986e947 a obo:PCL_0010001 ;
+    rdfs:label "Pvalb" ;
+    ns:CrossArea_subclass "Pvalb" ;
+    obo:RO_0015003 ns:337dfa50-3d38-49b5-94b0-28041c613f97 .
+
+ns:337dfa50-3d38-49b5-94b0-28041c613f97 a [ a owl:Restriction ;
+            owl:onProperty obo:RO_0002473 ;
+            owl:someValuesFrom obo:CL_4023018 ],
+        obo:PCL_0010001 ;
+    rdfs:label "Pvalb" ;
+    ns:CrossArea_subclass "Pvalb" ;
+    ns:cell_type "pvalb GABAergic cortical interneuron" .
+
+ns:ffe8d8f2-ff8d-458c-802e-15df28962a9f a obo:PCL_0010001 ;
+    ns:WithinArea_subclass "Pvalb" .
+
+ns:d3a1a8c4-9b56-4372-ae0b-bc190cd88e35 a obo:PCL_0010001 ;
+    rdfs:label "Sst" ;
+    ns:CrossArea_subclass "Sst" ;
+    obo:RO_0015003 ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed .
+
+ns:af440545-30a2-4709-8f6c-7559777630f3 a obo:PCL_0010001 ;
+    ns:WithinArea_subclass "Sst" .
+
+ns:2123d835-3eb6-4a70-b3e5-d0570a5b6eed a [ a owl:Restriction ;
+            owl:onProperty obo:RO_0002473 ;
+            owl:someValuesFrom obo:CL_4023017 ],
+        obo:PCL_0010001 ;
+    rdfs:label "sst GABAergic cortical interneuron" ;
+    ns:cell_type "sst GABAergic cortical interneuron" .
+
+obo:PCL_0010001 a owl:Class ;
+    rdfs:label "cell cluster" .
+
