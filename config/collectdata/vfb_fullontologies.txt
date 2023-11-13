@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/dosumis/CxG_test/main/ontologies/CGE_int.ttl
-https://purl.obolibrary.org/obo/cl/cl-simple.owl
+https://raw.githubusercontent.com/dosumis/CxG_test/main/ontologies/kidney_new.ttl
+https://purl.obolibrary.org/obo/cl.owl
