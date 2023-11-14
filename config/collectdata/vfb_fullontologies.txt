@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/dosumis/CxG_test/main/ontologies/kidney_new.ttl
+https://raw.githubusercontent.com/dosumis/CxG_test/main/ontologies/kidney_new.owl
 https://purl.obolibrary.org/obo/cl.owl
